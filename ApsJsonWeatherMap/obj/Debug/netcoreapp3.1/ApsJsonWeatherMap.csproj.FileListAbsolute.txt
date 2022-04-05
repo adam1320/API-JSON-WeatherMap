@@ -1,0 +1,16 @@
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\bin\Debug\netcoreapp3.1\ApsJsonWeatherMap.exe
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\bin\Debug\netcoreapp3.1\ApsJsonWeatherMap.deps.json
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\bin\Debug\netcoreapp3.1\ApsJsonWeatherMap.runtimeconfig.json
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\bin\Debug\netcoreapp3.1\ApsJsonWeatherMap.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\bin\Debug\netcoreapp3.1\ApsJsonWeatherMap.dll
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\bin\Debug\netcoreapp3.1\ApsJsonWeatherMap.pdb
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.csproj.CopyComplete
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.dll
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.pdb
+C:\Users\Adam\TrueCoders\Repos\C#\ApsJsonWeatherMap\ApsJsonWeatherMap\obj\Debug\netcoreapp3.1\ApsJsonWeatherMap.genruntimeconfig.cache
